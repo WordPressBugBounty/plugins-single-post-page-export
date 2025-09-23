@@ -3,13 +3,13 @@ Contributors: SS88_UK
 Donate link: https://paypal.me/SS88/
 Tags: post export, page export, export, XML, WXR
 Requires at least: 4.6
-Tested up to: 6.6
+Tested up to: 6.8
 Stable tag: 1.3
 Requires PHP: 5.6
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Export (an XML file) a single post or page using WordPress' eXtended RSS (WXR). There's no need to export your entire content database anymore!
+Export (an XML file) a single post or page using WordPress' eXtended RSS (WXR). There's no need to export your entire database anymore!
 
 == Description ==
 
@@ -18,6 +18,14 @@ Say goodbye to exporting your entire content database or manually copying and pa
 Download the Single Post/Page Export plugin today and experience a new level of efficiency and control over your WordPress content.
 
 * One-click Export
+
+**Check out our other plugins:** 
+
+* 🎉 [Media Library File Size](https://wordpress.org/plugins/media-library-file-size/)
+* 🔒 [Two Factor (2FA) Authentication via Email](https://wordpress.org/plugins/two-factor-2fa-via-email/)
+* 🙍‍♂️ [View User Metadata](https://wordpress.org/plugins/view-user-metadata/)
+* 🔠 [Enable Turnstile (Cloudflare) for Gravity Forms](https://wordpress.org/plugins/enable-turnstile-cloudflare-for-gravity-forms/)
+* ⭐️⭐️⭐️⭐️⭐️ [Gravity Forms to FreeScout](https://ss88.us/plugins/gravity-forms-freescout?utm_campaign=OtherPlugins)
 
 == Installation ==
 
