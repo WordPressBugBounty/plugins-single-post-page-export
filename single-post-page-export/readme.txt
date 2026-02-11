@@ -3,7 +3,7 @@ Contributors: SS88_UK
 Donate link: https://paypal.me/SS88/
 Tags: post export, page export, export, XML, WXR
 Requires at least: 4.6
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.3
 Requires PHP: 5.6
 License: GPL2
