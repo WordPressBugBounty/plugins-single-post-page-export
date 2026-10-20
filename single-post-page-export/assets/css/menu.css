@@ -1,0 +1,53 @@
+.sppe-export {
+	position: relative;
+	display: inline-block;
+}
+
+.sppe-export-toggle::after {
+	content: "\f140";
+	font: normal 16px/1 dashicons;
+	vertical-align: -3px;
+	margin-left: -1px;
+	-webkit-font-smoothing: antialiased;
+}
+
+.sppe-export.is-open .sppe-export-toggle::after {
+	content: "\f142";
+}
+
+.sppe-export-menu {
+	position: absolute;
+	top: 100%;
+	left: 0;
+	z-index: 100;
+	margin-top: 4px;
+	min-width: 160px;
+	padding: 4px 0;
+	background: #fff;
+	border: 1px solid #c3c4c7;
+	border-radius: 4px;
+	box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+	white-space: nowrap;
+}
+
+.sppe-export-menu[hidden] {
+	display: none;
+}
+
+.sppe-export-menu a {
+	display: block;
+	padding: 6px 12px;
+	color: #2c3338;
+	font-size: 13px;
+	line-height: 1.4;
+	text-decoration: none;
+}
+
+.sppe-export-menu a:hover,
+.sppe-export-menu a:focus {
+	background: #f0f0f1;
+	color: #2271b1;
+	box-shadow: none;
+	outline: none;
+}
+
