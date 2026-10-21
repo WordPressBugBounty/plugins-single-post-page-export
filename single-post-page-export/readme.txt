@@ -4,7 +4,7 @@ Donate link: https://paypal.me/SS88/
 Tags: export, post export, page export, WXR, migration
 Requires at least: 5.0
 Tested up to: 7.1
-Stable tag: 1.4
+Stable tag: 1.4.1
 Requires PHP: 5.6
 License: GPL2
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
@@ -65,6 +65,9 @@ Any post type registered with `can_export` enabled, which is the default.
 1. An example of the 'Export' link when viewing Pages.
 
 == Changelog ==
+
+= 1.4.1 =
+* Fix: Dismissing the Unicorn Panel notice now always saves, even if it's closed before the page finishes loading
 
 = 1.4 =
 * New: Bulk export from the Bulk actions menu

@@ -3,7 +3,7 @@
 Plugin Name: Export Single Post Page
 Plugin URI: https://ss88.us/plugins/single-post-page-export
 Description: Export an XML file using WordPress' eXtended RSS (WXR) on a page/post basis. No need to export your entire content database anymore!
-Version: 1.4
+Version: 1.4.1
 Author: SS88 LLC
 Author URI: https://ss88.us
 Text Domain: single-post-page-export
@@ -13,7 +13,7 @@ if (!defined('ABSPATH')) exit;
 
 class SS88_SinglePPExport {
 
-	protected $version = '1.4';
+	protected $version = '1.4.1';
 	protected $primary_ids = [];
 	protected $export_ids = [];
 	protected $allowed_term_ids = [];
